@@ -1,0 +1,26 @@
+++++++++++++++++++++++++++++++++++
+
+NOTIFIER
+
+++++++++++++++++++++++++++++++++++
+
+This scripts notify cricket news of india from Times of India on desktop to user.A dialog box appear after every 10 seconds to display latest cricket news to user while he can work on other application.
+
+
+
+HOW TO USE?
+
+
+step-1: download the rar file and extract it to a folder created by you.
+
+step-2: Now first install requirements.txt using 
+
+"sudo pip install -r requirements.txt "
+
+Note:- For this you must move to folder where this file is present.
+
+step-3: Now in cmd enter command "Python cricket_news.py"
+
+and enjoy latest cricket news.
+
+ 
